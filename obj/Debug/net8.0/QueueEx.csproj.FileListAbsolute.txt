@@ -1,0 +1,14 @@
+C:\Users\Pedro\source\repos\Generics\QueueEx\bin\Debug\net8.0\QueueEx.exe
+C:\Users\Pedro\source\repos\Generics\QueueEx\bin\Debug\net8.0\QueueEx.deps.json
+C:\Users\Pedro\source\repos\Generics\QueueEx\bin\Debug\net8.0\QueueEx.runtimeconfig.json
+C:\Users\Pedro\source\repos\Generics\QueueEx\bin\Debug\net8.0\QueueEx.dll
+C:\Users\Pedro\source\repos\Generics\QueueEx\bin\Debug\net8.0\QueueEx.pdb
+C:\Users\Pedro\source\repos\Generics\QueueEx\obj\Debug\net8.0\QueueEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\Generics\QueueEx\obj\Debug\net8.0\QueueEx.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\Generics\QueueEx\obj\Debug\net8.0\QueueEx.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\Generics\QueueEx\obj\Debug\net8.0\QueueEx.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\Generics\QueueEx\obj\Debug\net8.0\QueueEx.dll
+C:\Users\Pedro\source\repos\Generics\QueueEx\obj\Debug\net8.0\refint\QueueEx.dll
+C:\Users\Pedro\source\repos\Generics\QueueEx\obj\Debug\net8.0\QueueEx.pdb
+C:\Users\Pedro\source\repos\Generics\QueueEx\obj\Debug\net8.0\QueueEx.genruntimeconfig.cache
+C:\Users\Pedro\source\repos\Generics\QueueEx\obj\Debug\net8.0\ref\QueueEx.dll
